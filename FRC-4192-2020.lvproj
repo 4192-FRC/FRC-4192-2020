@@ -718,8 +718,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Spark MAX Get Status 2.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/SPARK MAX/SubVI/Private/Spark MAX Get Status 2.vi"/>
 				<Item Name="Spark MAX Status 2 Frame.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/SPARK MAX/Typedef/Spark MAX Status 2 Frame.ctl"/>
 				<Item Name="Spark MAX Get Sensor Velocity.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/SPARK MAX/SubVI/Public/Spark MAX Get Sensor Velocity.vi"/>
-				<Item Name="WPI_DutyCycle_GetOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DutyCycle/WPI_DutyCycle_GetOutput.vi"/>
-				<Item Name="FPGA_DutyCycleReadOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DutyCycle/FPGA_DutyCycleReadOutput.vi"/>
 				<Item Name="ADIS16448 Data.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16448/Typedef/ADIS16448 Data.ctl"/>
 				<Item Name="ADIS16448 Device Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16448/Typedef/ADIS16448 Device Reference.ctl"/>
 				<Item Name="ADIS16448 Hardware Configuration.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16448/Typedef/ADIS16448 Hardware Configuration.ctl"/>
